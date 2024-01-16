@@ -1,0 +1,3 @@
+install-config.tmpl.yaml
+./scripts/install-config.tmpl.yaml
+.idea/*
